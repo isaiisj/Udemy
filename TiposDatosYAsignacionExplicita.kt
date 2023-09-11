@@ -31,7 +31,10 @@ fun main(args: Array<String>) {
 
 
     println(leccion)
-
+    println(x)
+    println(z)
+    println(a)
+    println(soyMayorEdad)
 
 
 }
