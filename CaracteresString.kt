@@ -1,5 +1,3 @@
-import java.awt.geom.QuadCurve2D
-
 fun main(args: Array<String>) {
 
     // Character Char
