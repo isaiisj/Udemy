@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
 
    var arregloBoleanos = arrayOf(true,false,true)
 
-    print(arregloEnteros[2])
+    println(arregloEnteros[2])
     println(arregloStrings[2])
-    print(arregloBoleanos[2])
+    println(arregloBoleanos[2])
 }
