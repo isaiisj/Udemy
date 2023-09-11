@@ -13,4 +13,7 @@ fun main(args: Array<String>) {
 
     var cadenaTexto:String = "Hola"
 
+    println(caracter)
+    println(cadenaTexto)
+
 }
