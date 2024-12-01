@@ -2,6 +2,6 @@
 <p>Códigos del Curso de Kotlin por Juan Villalvazo que se puede encontrar en Udemy.</p>
 <ol>
   <li>Variables, Arreglos y Operadores</li>
-  <li></li>
+  <li>Condicionales, Ciclos y Funciones</li>
   <li></li>
 </ol>
