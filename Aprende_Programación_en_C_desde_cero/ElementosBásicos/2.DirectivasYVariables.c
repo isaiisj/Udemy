@@ -8,7 +8,8 @@ int y = 5; //Variable global
 
 int main() {
     int x = 10; //Variable local
-    
+
+    //Tipo de dato flotante
     float suma = 0;
     
     suma = PI + x;
