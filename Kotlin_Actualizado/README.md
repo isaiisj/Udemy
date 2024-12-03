@@ -3,5 +3,5 @@
 <ol>
   <li>Variables, Arreglos y Operadores</li>
   <li>Condicionales, Ciclos y Funciones</li>
-  <li></li>
+  <li>POO (Programación Orientada a Objetos)</li>
 </ol>
