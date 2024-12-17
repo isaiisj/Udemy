@@ -40,6 +40,7 @@ For instance, if called with n = 10, the output should be:
 
 */
 
+
 public class Main {
 
     public static void printItems(int n) {
