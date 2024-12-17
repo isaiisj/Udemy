@@ -14,12 +14,12 @@ For example, given nums = [3,2,2,3] and val = 3, the method should return 2, and
 
 Method Signature:
 
-public static int removeElement(int[] nums, int val)
+    public static int removeElement(int[] nums, int val)
 
 
 Constraints
 
-The array nums can contain negative and positive numbers, and 0.
+    The array nums can contain negative and positive numbers, and 0.
 
 
 
@@ -27,14 +27,15 @@ Example
 
 Let's illustrate the problem using an example:
 
-Input:
+    Input:
 
-nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+        nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
 
-val = 1
+        val = 1
 
-Output: The new length of the array should be 7, 
-and the array itself should look like this after modification: [-2, -3, 4, -1, 2, -5, 4, -5, 4]
+    Output: The new length of the array should be 7, 
+    and the array itself should look like this after 
+    modification: [-2, -3, 4, -1, 2, -5, 4, -5, 4]
 
 
 
