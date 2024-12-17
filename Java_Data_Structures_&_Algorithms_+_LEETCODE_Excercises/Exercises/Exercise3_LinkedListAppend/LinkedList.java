@@ -22,6 +22,8 @@ The method should perform the following tasks:
 5. Increment the length attribute of the list by 1.
 
 */
+
+
 public class LinkedList {
 
     private Node head;
