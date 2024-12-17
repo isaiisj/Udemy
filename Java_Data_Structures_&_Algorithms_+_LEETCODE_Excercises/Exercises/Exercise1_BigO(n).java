@@ -6,20 +6,22 @@ The purpose of this method is to print out a series of integer numbers, starting
 
 Code that is provided:
 
-The method is defined as public and static, meaning it can be accessed from any class without needing to create an instance of the class it belongs to.
+    1. The method is defined as public and static, meaning it can be 
+       accessed from any class without needing to create an instance of the class it belongs to.
 
-The method  returns void, meaning it will not return any value.
+    2. The method  returns void, meaning it will not return any value.
 
-The method accepts a single parameter, an integer n. The method will use this value to determine the number of items to be printed.
+    3. The method accepts a single parameter, an integer n. 
+       The method will use this value to determine the number of items to be printed.
 
 
 
 Code that you are tasked with writing:
 
-The method should include a for loop. The loop should start with a counter i initialized at 0, 
-continue as long as i is less than n, and increment i by 1 with each iteration.
+    1. The method should include a for loop. The loop should start with a counter i initialized at 0, 
+       continue as long as i is less than n, and increment i by 1 with each iteration.
 
-Inside the loop, the method should print the current value of i to the console followed by a new line.
+    2. Inside the loop, the method should print the current value of i to the console followed by a new line.
 
 
 
