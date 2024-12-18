@@ -1,0 +1,11 @@
+Draw out a small linked list on paper and walk through the steps of the method manually.
+
+Start at the head of the linked list and iterate through each node until you reach the last node. 
+Make sure you keep track of the previous node along the way.
+
+Then, update the tail of the linked list to be the previous node, remove the reference to 
+the original tail node, and decrement the length of the linked list. Finally, make sure to 
+handle the case where the linked list is now empty.
+
+Walking through the method manually on a small linked list can help to visualize the steps
+and understand how they work together to remove the last node from the linked list.
