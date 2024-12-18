@@ -117,10 +117,12 @@ public class LinkedList {
 	    if(length == 0) return null;
 	    Node temp = head;
 	    Node pre = head;
+	    //Iterate the list
 	    while(temp.next != null){
 	        pre = temp;
 	        temp = temp.next;
 	    }
+	    //Remove last node
 	    tail = pre;
 	    tail.next = null;
 	    length--;
@@ -128,6 +130,7 @@ public class LinkedList {
 	        head = null;
 	        tail = null;
 	    }
+	    //Return removed node
 	    return temp;
 	}
 	
