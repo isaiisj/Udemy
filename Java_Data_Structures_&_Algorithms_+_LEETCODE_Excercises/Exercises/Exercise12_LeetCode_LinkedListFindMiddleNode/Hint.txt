@@ -1,0 +1,16 @@
+Pseudo Code:
+
+  1. Initialize two pointers: slow and fast, both pointing to the head of the list.
+
+  2. While fast is not null and the next node of fast is not null:
+
+      a. Move slow one step ahead (i.e., slow = slow.next).
+
+      b. Move fast two steps ahead (i.e., fast = fast.next.next).
+
+  3. When the while loop ends, slow will point to the middle node of the list. Return slow.
+
+
+
+This algorithm uses the slow and fast pointer technique, also known as 
+Floyd's Tortoise and Hare algorithm, to find the middle element of the linked list.
