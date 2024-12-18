@@ -1,0 +1,38 @@
+Pseudo Code:
+
+  1. printItems Method
+
+      Purpose: This method is designed to print integer 
+      values from 0 to n-1 (inclusive) on separate lines.
+
+  2. printItems Method Signature
+
+      It is a public method, so it can be accessed from any other class.
+
+      It is a static method, meaning it belongs to the class it is defined 
+      in rather than an instance of that class.
+
+      The method has a void return type, indicating that it does not return any value.
+
+      The method accepts a single parameter, n, of type int.
+
+  3. Method Body
+
+      The method uses a for loop to iterate through a series of numbers, 
+      starting from 0 and ending at n - 1.
+
+  4. Loop Structure
+
+      Initialization: int i = 0 initializes the loop counter i to 0.
+
+      Condition: i < n is the loop's termination condition. 
+      The loop will continue iterating as long as i is less than n.
+
+      Post Iteration Operation: i++ increments i by 1 after each loop iteration.
+
+  5. Loop Body
+
+      System.out.println(i) is executed for each iteration of the loop. 
+      It prints the current value of i to the console followed by a new line.
+
+In a nutshell, this method prints a sequence of integers from 0 to n-1 (inclusive) to the console, each on a new line.
