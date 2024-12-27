@@ -6,9 +6,9 @@
   <li>1. Big O: O(n)</li>
 </ul>
 <h2>Linked Lists</h2>
-<ol>
-  <li>Linked List: Constructor</li>
-  <li>Linked List: Append</li>
-  <li>Linked List: Remove Last</li>
-  <li>Linked List: Prepend</li>
-</ol>
+<ul>
+  <li>2. Linked List: Constructor</li>
+  <li>3. Linked List: Append</li>
+  <li>4. Linked List: Remove Last</li>
+  <li>5. Linked List: Prepend</li>
+</ul>
