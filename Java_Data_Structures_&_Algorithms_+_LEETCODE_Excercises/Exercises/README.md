@@ -14,4 +14,11 @@
   <li>6. Linked List: Remove Fisrt</li>
   <li>7. Linked List: Get</li>
   <li>8. Linked List: Set</li>
+  <li>9. Linked List: Insert</li>
+  <li>10. Linked List: Remove</li>
+  <li>11.</li>
+</ul>
+<h2>Trees</h2>
+<ul>
+  <li>45. Binary Search Tree: Constructor</li>
 </ul>
