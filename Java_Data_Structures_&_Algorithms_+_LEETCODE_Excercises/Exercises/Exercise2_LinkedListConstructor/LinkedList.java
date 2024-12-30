@@ -22,8 +22,9 @@ Instructions:
 
 4. Initialize Head and Tail:
 
-Assign the newly created node to both the head and tail of the linked list. 
-This is because, initially, the list contains only one node, making it both the beginning and end of the list.
+    Assign the newly created node to both the head and tail of the linked list. 
+    This is because, initially, the list contains only one node, making it both the 
+    beginning and end of the list.
 
 5. Set the List Length:
 
