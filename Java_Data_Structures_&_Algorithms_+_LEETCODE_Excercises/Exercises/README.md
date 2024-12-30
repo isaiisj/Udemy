@@ -11,4 +11,7 @@
   <li>3. Linked List: Append</li>
   <li>4. Linked List: Remove Last</li>
   <li>5. Linked List: Prepend</li>
+  <li>6. Linked List: Remove Fisrt</li>
+  <li>7. Linked List: Get</li>
+  <li>8. Linked List: Set</li>
 </ul>
