@@ -1,0 +1,21 @@
+Here is a breakdown of what the code is doing:
+
+    1. The first three lines of the method swap the head and tail pointers of the linked list,
+       effectively reversing the order of the list.
+
+    2. The next line initializes a variable called after to the next node of the original head node.
+
+    3. The next line initializes a variable called before to null.
+
+    4. The for loop then iterates through the linked list length number of times, where length 
+       is the number of nodes in the linked list.
+
+    5. In each iteration of the loop, the after variable is set to the next node of the current node,
+       which will become the new temp node in the next iteration.
+
+    6. The next pointer of the current node is then set to before, which effectively reverses the order
+       of the nodes in the list.
+
+    7. The before variable is set to the current node, which will become the new temp node in the next iteration.
+
+    8. The temp variable is then set to after, which sets up the next iteration of the loop.
