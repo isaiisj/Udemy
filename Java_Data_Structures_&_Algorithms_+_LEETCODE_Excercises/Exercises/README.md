@@ -16,7 +16,7 @@
   <li>8. Linked List: Set</li>
   <li>9. Linked List: Insert</li>
   <li>10. Linked List: Remove</li>
-  <li>11.</li>
+  <li>11. Linked List: Reverse</li>
 </ul>
 <h2>Trees</h2>
 <ul>
