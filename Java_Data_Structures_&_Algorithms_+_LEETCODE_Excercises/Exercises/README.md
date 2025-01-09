@@ -19,6 +19,10 @@
   <li>11. Linked List: Reverse</li>
 </ul>
 <h3>Linked Lists Interview/LeetCode</h3>
+<ul>
+  <li>12. </li>
+  <li>13. </li>
+</ul>
 <h2>Trees</h2>
 <ul>
   <li>45. Binary Search Tree: Constructor</li>
