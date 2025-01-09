@@ -23,6 +23,7 @@
   <li>12. </li>
   <li>13. </li>
 </ul>
+<h2>Doubly Linked List</h2>
 <h2>Trees</h2>
 <ul>
   <li>45. Binary Search Tree: Constructor</li>
