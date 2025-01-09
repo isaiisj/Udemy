@@ -1,3 +1,40 @@
+/*
+
+Design a class called DoublyLinkedList that represents a doubly linked list.
+
+The class should have the following attributes and methods:
+
+Attributes:
+
+	1. head: a Node object that represents the first node in the doubly linked list.
+
+	2. tail: a Node object that represents the last node in the doubly linked list.
+
+	3. length: an integer representing the number of nodes in the doubly linked list.
+
+
+
+Inner class Node:
+
+	1. value: an integer representing the value of the node.
+
+	2. next: a Node object representing the next node in the doubly linked list.
+
+	3. prev: a Node object representing the previous node in the doubly linked list.
+
+	4. A constructor that accepts an integer value as an argument and initializes the value attribute.
+
+
+
+Methods:
+
+	1. Constructor DoublyLinkedList: a constructor that accepts an integer value as an argument, 
+ 	   initializes a new Node object called newNode with the given value, sets both the head and 
+     	   tail attributes of the list to the newNode, and initializes the length attribute to 1.
+
+*/
+
+
 public class DoublyLinkedList {
 
 	// CREATE CLASS VARIABLES, NODE CLASS, AND CONSTRUCTOR HERE //
