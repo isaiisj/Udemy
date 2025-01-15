@@ -25,6 +25,9 @@
 </ul>
 <h2>Doubly Linked Lists</h2>
 <h2>Stacks & Queues</h2>
+<ul>
+  <li>32. Stack: Constructor</li>
+</ul>
 <h2>Trees</h2>
 <ul>
   <li>45. Binary Search Tree: Constructor</li>
