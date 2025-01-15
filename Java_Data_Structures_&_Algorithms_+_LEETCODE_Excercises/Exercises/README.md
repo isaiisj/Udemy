@@ -26,6 +26,7 @@
 <h2>Doubly Linked Lists</h2>
 <ul>
   <li>19. Doubly Linked List: Constructor</li>
+  <li>20. Doubly Linked List: Append</li>
 </ul>
 <h2>Stacks & Queues</h2>
 <ul>
