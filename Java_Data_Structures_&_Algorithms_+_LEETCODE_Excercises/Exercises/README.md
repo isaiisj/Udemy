@@ -21,8 +21,8 @@
 </ul>
 <h3>Linked Lists Interview/LeetCode</h3>
 <ul>
-  <li>12. </li>
-  <li>13. </li>
+  <li>12. Linked List: Find Middle Node</li>
+  <li>13. Has A Loop</li>
 </ul>
 <h2>Doubly Linked Lists</h2>
 <ul>
@@ -32,6 +32,8 @@
 <h2>Stacks & Queues</h2>
 <ul>
   <li>32. Stack: Constructor</li>
+  <li>33. Stack: Push</li>
+  <li>34. Stack: Pop</li>
 </ul>
 <h2>Trees</h2>
 <ul>
