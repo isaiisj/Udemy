@@ -1,5 +1,6 @@
 <h1>List of exercises</h1>
 <p>This is a list whith the exercises ordered, done throuhout the course.</p>
+<p>Instructor: Scott Barret</p>
 <br>
 <h2>Big O</h2>
 <ul>
