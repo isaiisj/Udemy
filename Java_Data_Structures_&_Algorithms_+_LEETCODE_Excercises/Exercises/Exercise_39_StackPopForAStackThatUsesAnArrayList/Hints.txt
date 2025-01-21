@@ -1,0 +1,10 @@
+Pseudo Code:
+
+    1. Check if the stack is empty:
+
+        a. If isEmpty() is true, return null.
+
+    2. Pop value from the stack:
+
+        a. Remove and return the last element in
+           the stackList (at index stackList.size() - 1).
