@@ -1,24 +1,3 @@
-/*
-
-The method should perform the following tasks:
-
-    1. Accept an integer value as an argument, which will be the
-       value of the new node.
-
-    2. Create a new Node object called newNode with the given value.
-
-    3. If the length of the queue is 0, set both the first and last
-       pointers of the queue to newNode.
-
-    4. If the length of the queue is greater than 0, perform the following tasks:
-        a. Set the next attribute of the current last node to newNode. 
-        b. Update the last pointer of the queue to point to newNode.
-
-    5. Increment the length attribute of the queue by 1.
-
-*/
-
-
 public class Queue {
 
     private Node first;
