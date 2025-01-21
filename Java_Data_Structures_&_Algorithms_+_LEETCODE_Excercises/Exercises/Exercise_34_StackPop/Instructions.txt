@@ -1,0 +1,23 @@
+Implement a pop method that removes and returns the
+top node from the stack.
+
+Return type: Node (the node that was popped from the stack)
+
+
+
+The method should perform the following tasks:
+
+    1. If the height of the stack is 0, return null.
+
+    2. Store the current top node in a temporary variable
+       called temp.
+
+    3. Update the top attribute to point to the next node
+       in the stack.
+
+    4. Set the next attribute of the temp node to null to 
+       disconnect it from the stack.
+
+    5. Decrement the height attribute of the stack by 1.
+
+    6. Return the temp node.
