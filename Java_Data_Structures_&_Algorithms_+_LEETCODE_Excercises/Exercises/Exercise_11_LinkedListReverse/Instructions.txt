@@ -31,10 +31,12 @@ The method should perform the following tasks:
 
     7. Loop through the linked list using a for loop with a counter 
        variable i, starting from 0 and ending at the length attribute 
-       of the list. a. Set the after attribute to the next attribute 
-       of the temporary Node object. b. Set the next attribute of the
-       temporary Node object to the before attribute. c. Set the before
-       attribute to the temporary Node object. d. Set the temporary Node
-       object to the after attribute.
+       of the list. 
+            a. Set the after attribute to the next attribute of the 
+               temporary Node object. 
+            b. Set the next attribute of the temporary Node object
+               to the before attribute. 
+            c. Set the before attribute to the temporary Node object.
+            d. Set the temporary Node object to the after attribute.
 
     8. The method has no return value.
