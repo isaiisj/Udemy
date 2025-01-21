@@ -1,37 +1,3 @@
-/*
-
-Implement a Stack class with a constructor that initializes a new stack with a given value.
-
-
-
-The class should have the following attributes and constructor:
-
-    1. A Node class that represents the nodes of the stack:
-
-        An int attribute called value that stores the value of the node.
-
-        A Node attribute called next that points to the next node in the stack.
-
-        A constructor that accepts an integer value as an argument and initializes
-        the value attribute with the given value.
-
-    2. A private Node attribute called top that points to the top node of the stack.
-
-    3. A private int attribute called height that keeps track of the number of elements in the stack.
-
-    4. A constructor for the Stack class that performs the following tasks:
-
-        Accepts an integer value as an argument, which will be the value of the first node in the stack.
-
-        Creates a new Node object called newNode with the given value.
-
-        Initializes the top attribute with the newNode.
-
-        Sets the height attribute to 1.
-
-*/
-
-
 public class Stack {
 
 	// CREATE CLASS VARIABLES, NODE CLASS, AND CONSTRUCTOR HERE//
