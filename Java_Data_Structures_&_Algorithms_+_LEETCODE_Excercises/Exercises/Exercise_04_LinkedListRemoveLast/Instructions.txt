@@ -15,9 +15,9 @@ The method should perform the following tasks:
     3. Traverse the linked list until temp.next is null, performing
        the following tasks during traversal:
 
-        Update pre to point to the current temp node.
+        - Update pre to point to the current temp node.
 
-        Update temp to point to the next node in the linked list.
+        - Update temp to point to the next node in the linked list.
 
     4. After traversal, set the tail pointer to pre.
 
