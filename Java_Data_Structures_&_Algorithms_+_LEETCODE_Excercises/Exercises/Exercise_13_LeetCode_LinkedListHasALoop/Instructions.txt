@@ -60,6 +60,20 @@ Method signature:
 If your Linked List contains a loop, it indicates a flaw in its
 implementation. This situation can manifest in several ways:
 
+11 -> 3
+|     |
+7 <- 23
+
+
+11 -> 3     4-> null
+|     |
+7 <- 23
+
+
+ 4 -> 11 -> 3    
+      |     |
+      7 <- 23
+
 
 Note:
 
