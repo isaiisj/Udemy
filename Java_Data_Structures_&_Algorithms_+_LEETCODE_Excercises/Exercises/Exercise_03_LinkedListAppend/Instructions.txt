@@ -18,8 +18,8 @@ The method should perform the following tasks:
     4. If the length of the linked list is greater than 0, perform 
        the following tasks:
 
-        Set the next attribute of the current tail node to the newNode.
+        - Set the next attribute of the current tail node to the newNode.
 
-        Update the tail pointer of the list to point to the newNode.
+        - Update the tail pointer of the list to point to the newNode.
 
     5. Increment the length attribute of the list by 1.
