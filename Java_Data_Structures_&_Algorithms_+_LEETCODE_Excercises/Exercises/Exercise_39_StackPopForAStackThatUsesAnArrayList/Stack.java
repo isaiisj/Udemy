@@ -1,16 +1,3 @@
-/*
-
-Add a method to pop a value from the Stack implementation 
-that we began in the last Coding Exercise.
-
-Return type: T
-
-Remember: This Stack implementation uses an ArrayList
-instead of a Linked List.
-
-*/
-
-
 import java.util.ArrayList;
 
 public class Stack<T> {
