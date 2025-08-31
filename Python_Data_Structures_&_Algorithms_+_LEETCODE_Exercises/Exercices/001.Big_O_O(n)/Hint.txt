@@ -1,0 +1,15 @@
+Pseudo Code:
+
+
+
+1. Define the function print_items(n)
+
+  a. Start a for loop that will run n times
+
+    i, During each iteration, i is the current loop count, starting from 0 and ending at n - 1
+
+    ii. Inside the loop, print the current value of i
+
+2. End the function definition
+
+3. Call the function print_items with a specific number (e.g., print_items(10))
