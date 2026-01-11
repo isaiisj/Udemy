@@ -1,0 +1,4 @@
+Make sure you don't change any of the strings. 
+The tests will look for an exact match to pass your code.
+If in doubt, you can always reset the code to the starting values by
+click on the refresh button on the top right of the code editor.
