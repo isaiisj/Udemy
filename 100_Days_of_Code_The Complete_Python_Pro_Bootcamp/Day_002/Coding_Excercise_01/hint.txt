@@ -1,0 +1,7 @@
+For the tests to pass you need to keep the height and weight the same as the starting code.
+
+height = 1.65
+weight = 84 
+
+
+You need to calculate the squared height first.
