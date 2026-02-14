@@ -1,0 +1,10 @@
+In the code below, B is between 10 (including) and 20 (not including).
+
+
+
+if n >= 20:
+    A
+elif n >= 10:
+    B
+else:
+    C
