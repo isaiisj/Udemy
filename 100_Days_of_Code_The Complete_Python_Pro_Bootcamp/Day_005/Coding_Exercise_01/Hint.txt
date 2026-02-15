@@ -1,0 +1,14 @@
+- Remember your answer should start from 1 and go up to and including 100.
+
+- Each number/text should be printed on a separate line.
+
+- Remember on Day 3, you learnt to use the modulo operator %  to check if a number is odd or even. 
+  You will need to use the same concept to check if a number is divisible by 3 or by 5.
+
+
+
+e.g.
+
+number = 12
+if number % 3 == 0:
+    print("number is divisible by 3")
