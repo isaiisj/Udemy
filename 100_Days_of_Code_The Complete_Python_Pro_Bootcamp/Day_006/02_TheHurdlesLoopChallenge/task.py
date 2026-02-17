@@ -12,7 +12,7 @@ def turn_right():
     for i in range(3):
         turn_left()
 
-def movement():
+def jump():
     move()
     turn_left()
     move()
@@ -23,5 +23,5 @@ def movement():
     turn_left()
     
 for i in range(6):
-    movement()
+    jump()
     
