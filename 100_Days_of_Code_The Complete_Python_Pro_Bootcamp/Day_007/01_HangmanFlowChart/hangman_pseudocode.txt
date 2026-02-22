@@ -1,0 +1,15 @@
+Select a random word from a list
+Create the number of blank spaces
+
+While number of lifes is greater than zero:
+	
+	wait for an input by the user
+	
+	If the letter is in the word:
+		replace corresponding blank spaces with the letters
+	else:
+		decrease lifes in one
+
+	if blank spaces are 0:
+		print “you have won”
+		break
