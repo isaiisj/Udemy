@@ -1,0 +1,5 @@
+Make sure you define your function as  life_in_weeks() .
+
+Also make sure you print out in this exact format: You have X weeks left.
+
+There are 52 weeks in a year.
