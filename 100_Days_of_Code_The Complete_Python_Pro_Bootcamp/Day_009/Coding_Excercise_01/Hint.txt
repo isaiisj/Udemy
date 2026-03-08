@@ -1,0 +1,2 @@
+Remember that looping through a Dictionary will only give you the keys and not the values.  
+If in doubt as to why your code is not doing what you expected, you can always print out the intermediate values. 
