@@ -1,0 +1,23 @@
+1. Importar las Bibliotecas Correctas: Asegúrate de haber importado Matplotlib y NumPy correctamente al comienzo de tu script. 
+  Revisa si las líneas de importación son similares a import matplotlib.pyplot as plt y import numpy as np. Estas bibliotecas 
+  son fundamentales para el ejercicio.
+
+2. Generar los Puntos del Eje X: Utiliza la función linspace de NumPy para generar un conjunto de puntos. Recuerda, linspace necesita 
+  tres argumentos: el valor inicial, el valor final y el número de puntos. Piensa en cómo quieres que sea el rango para el eje x de tu gráfico. 
+  Para este ejercicio, el rango es de 0 a 10.
+
+3. Calcular los Valores del Eje Y: Una vez que tengas los puntos para el eje x, necesitas calcular los valores correspondientes para el eje y. 
+  Dado que estás creando un gráfico de seno, usa la función sin de NumPy para obtener el seno de cada punto en tu array del eje x.
+
+4. Crear el Gráfico: Para trazar el gráfico, utiliza la función plot de Matplotlib. Esta función necesita dos arrays: uno para el eje x y otro para el eje y. 
+  Asegúrate de pasar los arrays que has creado en los pasos anteriores.
+
+5. Agregar Títulos y Etiquetas: Un gráfico debe ser claro y fácil de entender. 
+  No olvides agregar un título utilizando plt.title y etiquetas para los ejes x e y usando plt.xlabel y plt.ylabel. 
+  Estas etiquetas deben reflejar lo que cada eje representa.
+
+6. Mostrar el Gráfico: Finalmente, usa plt.show() para mostrar tu gráfico. Si bien no podrás ver el gráfico en el IDE de Udemy, 
+  es importante que incluyas esta línea para completar tu script.
+
+Recuerda, cada paso es crucial para crear con éxito el gráfico. Si encuentras un error, revisa cada línea cuidadosamente y 
+asegúrate de que esté escrita correctamente. ¡Buena suerte!
