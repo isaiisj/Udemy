@@ -1,0 +1,43 @@
+Función plot() de Matplotlib
+
+Ejercicio: Creación de un Gráfico de Seno con Matplotlib y NumPy
+
+Este ejercicio te introduce a la visualización de datos con Python, utilizando las bibliotecas Matplotlib y NumPy. 
+Aunque no podrás visualizar el gráfico en el IDE de Udemy debido a restricciones con Matplotlib, este ejercicio te 
+permitirá practicar la escritura del código necesario.
+
+Objetivos:
+
+1. Generar un conjunto de datos con NumPy.
+
+2. Utilizar Matplotlib para crear un gráfico de línea de una función seno.
+
+3. Añadir elementos descriptivos al gráfico, como títulos y etiquetas.
+
+Instrucciones:
+
+1. Importar Bibliotecas: Comienza importando las bibliotecas necesarias. 
+  Necesitarás matplotlib.pyplot para las funciones de graficación y numpy para generar y manejar datos numéricos.
+
+2. Generar Datos: Tu primer paso es generar un rango de valores que serán el eje x de tu gráfico. 
+  Usa una función de NumPy que te permita crear un arreglo de valores igualmente espaciados. 
+  Elige un rango que vaya de 0 a 10 y define una cantidad de puntos, por ejemplo, 100.
+
+  A continuación, necesitas calcular los valores correspondientes de la función seno para cada punto en tu eje x. 
+  NumPy tiene una función específica para calcular el seno de un arreglo de valores.
+
+3. Crear el Gráfico: Con tus datos listos, el siguiente paso es crear un gráfico de línea. 
+  Utiliza una función de Matplotlib que te permita graficar una serie de puntos definidos por tus arreglos de datos en el eje x y y.
+
+4. Personalizar el Gráfico: Un buen gráfico debe ser fácil de entender. 
+  Utiliza las funciones de Matplotlib para añadir un título a tu gráfico, así como etiquetas claras para los ejes x e y. 
+  Piensa en títulos y etiquetas que describan lo que tu gráfico representa.
+
+5. Intento de Visualización: Aunque no podrás ver el resultado en el IDE de Udemy, finaliza tu script con la función que 
+  normalmente usarías para mostrar el gráfico. Esta es una práctica estándar en la visualización de datos con Matplotlib.
+
+Nota: Recuerda, este ejercicio es una oportunidad para practicar cómo escribir código para la visualización de datos. 
+Aunque no verás el gráfico en el IDE de Udemy, comprender la sintaxis y el proceso te será útil para cuando trabajes 
+en un entorno que sí permita la visualización.
+
+Este ejercicio te introduce a la visualización de datos con Python, utilizando las bibliotecas Matplotlib y NumPy. 
