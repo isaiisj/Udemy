@@ -1,0 +1,44 @@
+Impresión con Formato: Variables de Carácter
+
+Instrucciones del Ejercicio:
+
+
+
+1. **Objetivo**: Tu tarea es utilizar las f-strings de Python para imprimir un mensaje personalizado 
+    que felicite a un estudiante por nombre al completar un curso.
+
+
+
+2. **Requisitos**:
+
+   - Define una variable `nombre` que contenga un nombre de estudiante como cadena de texto.
+
+   - Usa una f-string para crear un mensaje de felicitación que incluya la variable `nombre`.
+
+   - El mensaje debe seguir el formato exacto: "¡Felicidades [Nombre del Estudiante] por completar el curso de Business Analytics!"
+
+
+
+3. **Pasos a seguir**:
+
+   - Asigna un nombre de tu elección a la variable `nombre`.
+
+   - Escribe una instrucción `print` usando una f-string para formular el mensaje de felicitación.
+
+   - Asegúrate de que la salida del `print` sea idéntica al formato proporcionado en los requisitos.
+
+
+
+4. **Evaluación**:
+
+   - Se ejecutará un test automático para verificar que la salida del `print` coincida exactamente con el mensaje esperado.
+
+   - La evaluación será exitosa si el mensaje impreso coincide con el formato requerido, incluyendo la puntuación y la capitalización adecuadas.
+
+
+
+Recuerda, la atención al detalle es crucial en la programación. Asegúrate de probar tu código con diferentes nombres 
+para confirmar que tu solución es robusta y funciona correctamente en todos los casos.
+
+El objetivo del ejercicio es ilustrar el uso de las f-strings en Python para imprimir mensajes con variables incrustadas, 
+demostrando cómo se pueden integrar dinámicamente los valores de las variables
