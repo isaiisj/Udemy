@@ -1,0 +1,39 @@
+Sugerencias para Estudiantes con Dificultades:
+
+
+
+1. **Revisa la Sintaxis**: Las f-strings requieren un formato específico, con la letra 'f' precediendo 
+  a las comillas de la cadena de texto. Asegúrate de que estás usando correctamente la f antes de las comillas de tu cadena.
+
+
+
+2. **Colocación de las Llaves**: Dentro de una f-string, las variables deben estar rodeadas por llaves `{}`. 
+  Verifica que has colocado las llaves en la posición correcta para incluir la variable `nombre` en tu mensaje.
+
+
+
+3. **Mensaje Exacto**: Recuerda que el mensaje debe coincidir carácter por carácter con lo que se pide en las instrucciones. 
+  Comprueba que estás utilizando la capitalización correcta y que no hay espacios extras o caracteres faltantes.
+
+
+
+4. **Prueba tu Código**: Después de escribir tu f-string, ejecútala en tu entorno de desarrollo para ver la salida. 
+  Si el resultado no es el esperado, revisa y corrige tu código.
+
+
+
+5. **Lee los Errores**: Si recibes mensajes de error al ejecutar tu código, no los ignores. 
+  Los mensajes de error pueden darte pistas importantes sobre lo que necesita ser corregido.
+
+
+
+6. **Consulta los Recursos del Curso**: Si sigues atascado, revisa los materiales del curso que se refieren al uso de las f-strings. 
+  A veces, repasar los conceptos básicos puede aclarar tus dudas.
+
+
+
+7. **Descanso y Retorno**: Si te sientes frustrado, toma un breve descanso. A menudo, alejarse del problema por un momento puede ayudar a ver la solución más claramente cuando regresas.
+
+
+
+Recuerda, el proceso de aprendizaje incluye enfrentarse a desafíos y superarlos. Cada problema que resuelves te hace un mejor programador.
