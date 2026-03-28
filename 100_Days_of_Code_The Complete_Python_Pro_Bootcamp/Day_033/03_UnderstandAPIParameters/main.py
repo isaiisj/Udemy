@@ -30,4 +30,4 @@ print(time_now.hour)
 
 
 # sunrise and sunset API: https://sunrise-sunset.org/api
-# Challenge 1: Modify the API call to turn oof the formatting time
+# Challenge 1: Modify the API call to turn off the formatting time
