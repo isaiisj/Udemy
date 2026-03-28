@@ -15,8 +15,8 @@ Instructor: Dr. Angela Yu
   <li>Day 11 - Beginner - The Blackjack Capstone Project</li>
   <li>Day 12 - Beginner - Scope & Number Guessing Game</li>
   <li>Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code</li>
-  <li></li>
-  <li></li>
+  <li>Day 14 - Beginner - Higher Lower Game Project</li>
+  <li>Day 15 - Intermediate - Local Developement Environment Setup & the Coffee Machine</li>
   <li></li>
   <li></li>
   <li></li>
@@ -25,7 +25,7 @@ Instructor: Dr. Angela Yu
   <li></li>
   <li>Day 41 - Web Foundation - Introduction to HTML</li>
   <li>Day 42 - Web Foundation - Intermediate HTML</li>
-  <li></li>
+  <li>Day 43 - Web Foundation - Introduction to CSS</li>
   <li></li>
   <li></li>
   <li></li>
