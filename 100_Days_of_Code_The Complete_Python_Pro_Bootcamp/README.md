@@ -23,6 +23,15 @@ Instructor: Dr. Angela Yu
   <li></li>
   <li></li>
   <li></li>
+  <li></li>
+  <li></li>
+  <li>Day 33 - Intermediate + API Endpoints & API Parameters - ISS Overhead Notifier</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
   <li>Day 41 - Web Foundation - Introduction to HTML</li>
   <li>Day 42 - Web Foundation - Intermediate HTML</li>
   <li>Day 43 - Web Foundation - Introduction to CSS</li>
