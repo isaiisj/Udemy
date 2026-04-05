@@ -1,10 +1,10 @@
 import smtplib
 
 # Your email here
-my_email = "nota.buss@gmail.com"
+my_email = "xxxx@gmail.com"
 
 #Your app password created in gmail
-password = "hsdc pjmd gbfj voae"
+password = "xxxx xxxx xxxx xxxx"
 
 # establish connection with the smtp server
 #connection = smtplib.SMTP("smtp.gmail.com", port=587)
