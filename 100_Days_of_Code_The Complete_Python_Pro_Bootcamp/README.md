@@ -35,7 +35,7 @@ Instructor: Dr. Angela Yu
   <li>Day 41 - Web Foundation - Introduction to HTML</li>
   <li>Day 42 - Web Foundation - Intermediate HTML</li>
   <li>Day 43 - Web Foundation - Introduction to CSS</li>
-  <li></li>
+  <li>Day 44 - Web Foundation - Intermediate CSS</li>
   <li></li>
   <li></li>
   <li></li>
