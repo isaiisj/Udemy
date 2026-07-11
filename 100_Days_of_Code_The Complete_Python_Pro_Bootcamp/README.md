@@ -17,7 +17,7 @@ Instructor: Dr. Angela Yu
   <li>Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code</li>
   <li>Day 14 - Beginner - Higher Lower Game Project</li>
   <li>Day 15 - Intermediate - Local Developement Environment Setup & the Coffee Machine</li>
-  <li></li>
+  <li>Day 16 - Intermediate - The Quiz Project & the Benefits of OOP</li>
   <li></li>
   <li></li>
   <li></li>
